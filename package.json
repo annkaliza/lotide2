@@ -1,8 +1,8 @@
 {
-  "name": "lotideforanna",
+  "name": "@annkaliza/lotide",
   "version": "1.0.0",
   "description": "Lotide Project done in week one",
-  "main": "assertArraysEqual.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/annkaliza/lotide.git"
+    "url": "git+https://github.com/annkaliza/lotide2.git"
   },
   "keywords": [],
   "author": "Anna Kaliza",
@@ -21,7 +21,10 @@
     "mocha": "7.1.2"
   },
   "bugs": {
-    "url": "https://github.com/annkaliza/lotide/issues"
+    "url": "https://github.com/annkaliza/lotide2/issues"
   },
-  "homepage": "https://github.com/annkaliza/lotide#readme"
+  "homepage": "https://github.com/annkaliza/lotide2#readme",
+  "dependencies": {
+    "my-package": "0.0.0"
+  }
 }
